@@ -1,4 +1,4 @@
-%% cost=Hcost+Gcost£¬get the cost list;
+%% cost=Hcost+GcostÂ£Â¬get the cost list;
 function cost = getCost(openList,goalPoint,n)
 global point
 cost = [];
